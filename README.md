@@ -129,4 +129,4 @@ Feedback and contributions are welcome!
 
 ## Contact
 Pratik Bhutada - [pratikbhutada910@gmail.com](mailto:pratikbhutada910@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/pratik-bhutada/) | [GitHub](https://github.com/pratikbhutada)
+[LinkedIn](https://www.linkedin.com/in/pratikbhutada910/) | [GitHub](https://github.com/Pratik5432)
