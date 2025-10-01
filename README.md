@@ -125,15 +125,8 @@ nasdaq-stock-prediction-azure/
 3. Push to the branch (`git push origin feature/amazing-feature`).
 4. Open a Pull Request.
 
-Feedback and contributions are welcome! Please adhere to PEP 8 style guidelines.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feedback and contributions are welcome!
 
 ## Contact
 Pratik Bhutada - [pratikbhutada910@gmail.com](mailto:pratikbhutada910@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/pratik-bhutada/) | [GitHub](https://github.com/pratikbhutada)
-
----
-
-*Built with ❤️ during MSc Data Science at Manchester Metropolitan University (2024-2025).*
