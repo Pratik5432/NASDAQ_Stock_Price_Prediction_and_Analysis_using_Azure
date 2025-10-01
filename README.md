@@ -119,13 +119,7 @@ nasdaq-stock-prediction-azure/
 - Model accuracy: R² > 0.85 across ensemble regressions.
 - Deployment latency: < 200ms for real-time predictions.
 
-## Contributing
-1. Fork the repo and create a feature branch (`git checkout -b feature/amazing-feature`).
-2. Commit changes (`git commit -m 'Add amazing feature'`).
-3. Push to the branch (`git push origin feature/amazing-feature`).
-4. Open a Pull Request.
-
-Feedback and contributions are welcome!
+## Feedback and contributions are welcome!
 
 ## Contact
 Pratik Bhutada - [pratikbhutada910@gmail.com](mailto:pratikbhutada910@gmail.com)  
