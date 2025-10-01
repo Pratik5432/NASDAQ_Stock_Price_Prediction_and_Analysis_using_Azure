@@ -1,9 +1,5 @@
 # NASDAQ Stock Price Prediction and Analysis using Azure
 
-[![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/en-us/products/machine-learning/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/pratikbhutada/nasdaq-stock-prediction-azure?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikbhutada/nasdaq-stock-prediction-azure)
-
 ## Overview
 
 This project implements a comprehensive predictive analytics pipeline for forecasting stock prices of the top 10 NASDAQ-listed companies. Leveraging Azure Machine Learning and Python, the solution performs exploratory data analysis (EDA), builds regression-based forecasting models, and deploys them as scalable endpoints. Real-time predictions are integrated into Azure SQL Database for seamless reporting and stakeholder insights.
